@@ -1,0 +1,5 @@
+C:\Users\eduar\Desktop\Euler\2\2\bin\Debug\2.exe.config
+C:\Users\eduar\Desktop\Euler\2\2\bin\Debug\2.exe
+C:\Users\eduar\Desktop\Euler\2\2\bin\Debug\2.pdb
+C:\Users\eduar\Desktop\Euler\2\2\obj\Debug\2.exe
+C:\Users\eduar\Desktop\Euler\2\2\obj\Debug\2.pdb
