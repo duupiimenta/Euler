@@ -1,0 +1,6 @@
+C:\Users\eduar\Desktop\Euler\5\5\bin\Debug\5.exe.config
+C:\Users\eduar\Desktop\Euler\5\5\bin\Debug\5.exe
+C:\Users\eduar\Desktop\Euler\5\5\bin\Debug\5.pdb
+C:\Users\eduar\Desktop\Euler\5\5\obj\Debug\5.csprojResolveAssemblyReference.cache
+C:\Users\eduar\Desktop\Euler\5\5\obj\Debug\5.exe
+C:\Users\eduar\Desktop\Euler\5\5\obj\Debug\5.pdb
